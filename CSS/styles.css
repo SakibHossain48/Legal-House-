@@ -1,0 +1,9 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+body{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.bg-brown {
+    background-color: #B68C5A;
+}
